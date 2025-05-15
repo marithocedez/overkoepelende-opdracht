@@ -44,7 +44,15 @@ In dit project werd een ontspanningstoestel ontwikkeld dat twee technieken combi
 - Één om de breathing light te starten of te stoppen
 Het doel van dit project is om een eenvoudige, fysieke interface te creëren die gebruikers ondersteunt bij mindfulness, focusmomenten of stressreductie.
 
-![bb opdracht](https://raw.githubusercontent.com/marithocedez/overkoepelende-opdracht/main/images/bb%20opdracht.png)
+
+<details>
+ <summary>Afbeelding prototype</summary>
+
+ ![Afbeelding binaurale beats + breathing light](https://github.com/user-attachments/assets/f07a6bb2-68f6-402b-81f1-0ad727cbf436)
+
+
+
+</details>
 
 
 ### Technische uitwerking
@@ -60,7 +68,6 @@ Gebruikte componenten:
 - speaker
 - breadboards + jump wires
 
-![goede schakeling]([https://github.com/marithocedez/overkoepelende-opdracht/blob/main/images/goede%20schakeling.png)
 
 De DFPlayer mini werkt in een loop van zes verschillende geluiden. Zodra het zesde nummer is bereikt begin het systeem opnieuw bij nummer één wanneer er op de "volgende"-knop wordt gedrukt.
 
