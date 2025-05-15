@@ -29,7 +29,7 @@ Al deze componenten worden geschakeld aan een microcontroller, de arduino nano. 
 In dit prototype wordt slechts 12 seconden een werkperiode getrackt en 5 seconden pauze. Dit werd gedaan om makkelijk te kunnen debuggen en snel de werking van het systeem te tonen. Dit kan echter makkelijk aangepast worden in de code. 
 
 ### Arduino code
-De code die voor deze schakeling gebruikt werd is terug te vinden via deze link:
+De code die voor deze schakeling gebruikt werd is terug te vinden in bijlagen.
 
 ### Behuizing
 De behuizing wordt gelasercut uit multiplex. Er worden openingen gehouden voor het scherm, de twee knoppen en de ledlampjes. De buzzer zit in de behuizing omdat er geen behoefte is aan deze bloot te stellen. Zo krijgen we een overzichtelijk en toegankelijk geheel. 
