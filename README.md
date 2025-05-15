@@ -4,8 +4,16 @@ Voor de overkoepelende opdracht werd in eerste instatie gekozen voor een opdrach
 ### Projectbeschrijving
 In dit project programmeren we een product dat bijhoudt hoelang iemand aan het werk is en wanneer iemand pauze moet nemen. Dit wordt getrackt volgens de pomodoro-techniek: 20 minuten werken en 5 minuten pauze. Het toestel kan bediend worden met twee simpele knoppen: Een pauze knop en een start/stop knop. 
 Aan de hand van dit toestel kunnen bijvoorbeeld studenten gemakkelijk hun werktijd bijhouden en nemen ze ook op tijd een korte pauze. 
-
 Er werd gekozen om in het prototype te werken met seconden in plaats van minuten aangezien het anders zeer moeilijk te testen is tijdens de presentatie. 
+<details>
+ <summary>Afbeelding prototype</summary>
+
+ 
+![foto pomodoro 2](https://github.com/user-attachments/assets/22d7f862-85e0-45d6-b5e4-bba93b0c7477)
+
+</details>
+
+
 ### Technische uitwerking
 Het toestel bevat:
 - een display: houdt bij hoeveel minuten de pauze of de werkperiode bezig is.
@@ -25,6 +33,7 @@ De code die voor deze schakeling gebruikt werd is terug te vinden via deze link:
 
 ### Behuizing
 De behuizing wordt gelasercut uit multiplex. Er worden openingen gehouden voor het scherm, de twee knoppen en de ledlampjes. De buzzer zit in de behuizing omdat er geen behoefte is aan deze bloot te stellen. Zo krijgen we een overzichtelijk en toegankelijk geheel. 
+
 
 ## Binaural beats and breathing light
 ### Projectbeschrijving
