@@ -35,7 +35,9 @@ In dit project werd een ontspanningstoestel ontwikkeld dat twee technieken combi
 - Één om de breathing light te starten of te stoppen
 Het doel van dit project is om een eenvoudige, fysieke interface te creëren die gebruikers ondersteunt bij mindfulness, focusmomenten of stressreductie.
 
-FOTO EINDPRODUCT
+![bb opdracht]([https://github.com/marithocedez/overkoepelende-opdracht/blob/main/images/goede%20schakeling.png
+])
+
 
 ### Technische uitwerking
 De schakeling is opgebouwd uit een Arduino Nano, met een DFPlayer mini voor audioafspeling vanaf een MicroSD-kaart. De audio wordt weergegeven via een luidspreker, en de visuele ademhaling wordt gesimuleerd met een NeoPixel ring. De componenten zijn verbonden via jump wires op twee breadboards.
@@ -50,7 +52,9 @@ Gebruikte componenten:
 - speaker
 - breadboards + jump wires
 
-FOTO SCHAKELING
+![goede schakeling](https://github.com/marithocedez/overkoepelende-opdracht/blob/main/images/goede%20schakeling.png
+)
+
 De DFPlayer mini werkt in een loop van zes verschillende geluiden. Zodra het zesde nummer is bereikt begin het systeem opnieuw bij nummer één wanneer er op de "volgende"-knop wordt gedrukt.
 
 Oorspronkelijk was het de bedoeling om de breathing light automatisch te activeren tijdens het afspelen van de muziek. Ondanks de vele pogingingen bleek het technisch moeilijk om deze functies betrouwbaar te combineren met dezelfde knopstructuur. Na meerdere iteraties is ervoor gekozen om de lichtbediening los te koppelen en een aparate vierde knop toe te voegen.
