@@ -35,8 +35,7 @@ In dit project werd een ontspanningstoestel ontwikkeld dat twee technieken combi
 - Één om de breathing light te starten of te stoppen
 Het doel van dit project is om een eenvoudige, fysieke interface te creëren die gebruikers ondersteunt bij mindfulness, focusmomenten of stressreductie.
 
-![bb opdracht]([https://github.com/marithocedez/overkoepelende-opdracht/blob/main/images/goede%20schakeling.png
-])
+![bb opdracht](https://raw.githubusercontent.com/marithocedez/overkoepelende-opdracht/main/images/bb%20opdracht.png)
 
 
 ### Technische uitwerking
@@ -52,8 +51,7 @@ Gebruikte componenten:
 - speaker
 - breadboards + jump wires
 
-![goede schakeling](https://github.com/marithocedez/overkoepelende-opdracht/blob/main/images/goede%20schakeling.png
-)
+![goede schakeling]([https://github.com/marithocedez/overkoepelende-opdracht/blob/main/images/goede%20schakeling.png)
 
 De DFPlayer mini werkt in een loop van zes verschillende geluiden. Zodra het zesde nummer is bereikt begin het systeem opnieuw bij nummer één wanneer er op de "volgende"-knop wordt gedrukt.
 
@@ -61,10 +59,9 @@ Oorspronkelijk was het de bedoeling om de breathing light automatisch te activer
 Dit bleek achteraf ook een gebruiksvriendelijke keuze: de gebruiker kan nu zelf bepalen of het licht nodig is, wat het systeem flexibeler maakt.
 
 ### Arduino code
-De code die voor deze schakeling gebruikt werd is hier weergegeven: 
+De code die voor deze schakeling gebruikt werd, is terug te vinden in bijlagen. 
 
 ### Behuizing
 De behuizing werd bewust eenvoudig en functioneel gehouden. De knoppen zijn duidelijk zichtbaar en goed toegankelijk geplaatst. De breathing light werd centraal gepositioneerd voor optimale visuele impact.
 Aanvankelijk was het plan om de speaker extern te laten, maar uiteindelijk werd er beslist om deze mee in de behuizing te integreren. Deze beslissing werd genomen op basis van het feit dat geluid goed doorklinkt door materialen zoals karton of PLA. Voor een toekomstigere versie met een stevigere behuizing (bijv. kunststof of metaal) zou integratie van de speaker noodzakelijk zijn.
 
-FOTO NX BESTAND BEHUIZING
